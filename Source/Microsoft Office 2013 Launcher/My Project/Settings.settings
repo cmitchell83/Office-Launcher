@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Access" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\MSACCESS.EXE"</Value>
+    </Setting>
+    <Setting Name="Excel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE"</Value>
+    </Setting>
+    <Setting Name="OneNote" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\ONENOTE.EXE"</Value>
+    </Setting>
+    <Setting Name="Outlook" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE"</Value>
+    </Setting>
+    <Setting Name="PowerPoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\POWERPNT.EXE"</Value>
+    </Setting>
+    <Setting Name="Publisher" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\MSPUB.EXE"</Value>
+    </Setting>
+    <Setting Name="UploadCenter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\MSOUC.EXE"</Value>
+    </Setting>
+    <Setting Name="Word" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE"</Value>
+    </Setting>
+    <Setting Name="MinOnLaunch" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AppName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft Office Launcher</Value>
+    </Setting>
+    <Setting Name="OfficeVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Professional</Value>
+    </Setting>
+    <Setting Name="ExplorerStartPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
